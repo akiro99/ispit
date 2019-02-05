@@ -60,7 +60,7 @@ li a:hover {
 #biografija {
   text-align: center;
   height: 750px;
-  overflow: scroll;
+  overflow: hidden;
 }
 
 #biografija h1 {
@@ -85,7 +85,7 @@ li a:hover {
 #formula1 {
   text-align: center;
   height: 900px;
-  overflow: scroll;
+  overflow: hidden;
 }
 
 #formula1 h1 {
@@ -111,7 +111,7 @@ li a:hover {
   background-color: #383838;
   text-align: center;
   position: relative;
-  overflow: scroll;
+  overflow: hidden;
  }
 
 #fdanas h1 {
